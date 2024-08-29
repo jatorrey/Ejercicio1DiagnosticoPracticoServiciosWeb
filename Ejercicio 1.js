@@ -4,5 +4,5 @@ function contarCaracteres(cadena) {
     return cadena.length;
 }
 
-const texto = "Hola, ¿cómo estás?";
+const texto = "Hola mundo, hoy es un buen dia";
 console.log("Número de caracteres:", contarCaracteres(texto));
